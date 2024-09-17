@@ -10,10 +10,10 @@ This is a demo for BudgetGPT - a multi-purpose LLM application with UI using Goo
 ## Requirements
 An API key from Google Gemini is needed to run this demo. Please visit [here](https://aistudio.google.com/app/apikey) to obtain your personal API key
 
--python>=3.10
--google-generativeai>=0.8.1
--google-ai-generativelanguage>=0.6.9
--gradio>=4.44.0
+-python>=3.10 \
+-google-generativeai>=0.8.1 \
+-google-ai-generativelanguage>=0.6.9 \
+-gradio>=4.44.0 \
 
 Please run `pip install -r requirements.txt` to install all the necessary packages
 
