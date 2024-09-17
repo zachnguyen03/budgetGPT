@@ -20,6 +20,9 @@ Please run `pip install -r requirements.txt` to install all the necessary packag
 ## Run demo
 1. Chatbot
 `bash test_chatbot.sh`
+![demo_chatbot](./assets/demo_chatbot.png)
 2. Text completion
 `bash test_textgen.sh`
+![demo_textgen](./assets/demo_textgen.png)
+
 
